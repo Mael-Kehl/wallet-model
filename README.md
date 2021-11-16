@@ -4,6 +4,8 @@ This project has been made for training purposes. It is based on a dribbble desi
 
 https://dribbble.com/shots/15195965-Wallet-Hero-Header-v-5
 
+This project isn't responsive, that wasn't the goal. 
+
 # Preview : 
 
 ![image](https://user-images.githubusercontent.com/79083274/141348388-849f96fc-459e-44e9-b781-1ba119b0502a.png)
